@@ -1,4 +1,4 @@
-# RandomRecipesGenerator
+# Random Meal Generator
 Random recipes generator android application 
 
 <p float = "left">
